@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is WebAssembly and how to create a WebAssembly app?](https://dev.to/satish/what-is-webassembly-and-how-to-create-a-webassembly-app-3b5h)
+- [Using Feature Flags aka Feature Toggles in Microservices and DevOps](https://dev.to/satish/using-feature-flags-aka-feature-toggles-in-microservices-and-devops-13oh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
