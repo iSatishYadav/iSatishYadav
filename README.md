@@ -26,7 +26,7 @@
 <a href="https://medium.com/@punskaari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@punskaari" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/satishyadavishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satishyadavishere" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codechefuser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechefuser" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrankuser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrankuser" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/iSatish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrankuser" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
