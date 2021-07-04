@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET 6 LINQ New Features](https://dev.to/satish/net-6-linq-new-features-opb)
 - [Visual Studio 2022 will write code for you!!! - Visual Studio 2022 Series - Part 1](https://dev.to/satish/visual-studio-2022-will-write-code-for-you-visual-studio-2022-series-part-1-4dl2)
 - [Using NLog in a .NET 5 Console Application with Dependency Injection and send logs to AWS CloudWatch](https://dev.to/satish/using-nlog-in-a-net-5-console-application-with-dependency-injection-52mm)
 - [What is WebAssembly and how to create a WebAssembly app and Host it in AWS S3?](https://dev.to/satish/what-is-webassembly-and-how-to-create-a-webassembly-app-3b5h)
-- [Using Feature Flags aka Feature Toggles in Microservices and DevOps - AWS/Azure or On-Prem](https://dev.to/satish/using-feature-flags-aka-feature-toggles-in-microservices-and-devops-13oh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
