@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Defense In-Depth: Designing an HTTP Content Length Restriction Middleware - ASP.NET 5 (or .NET Core)](https://dev.to/satish/defense-in-depth-designing-an-http-content-length-restriction-middleware-asp-net-5-or-net-core-1cpp)
 - [How to setup and use DynamoDb Locally - Free](https://dev.to/satish/how-to-setup-and-use-dynamodb-locally-free-4mo9)
 - [.NET 6 LINQ New Features](https://dev.to/satish/net-6-linq-new-features-opb)
 - [Visual Studio 2022 will write code for you!!! - Visual Studio 2022 Series - Part 1](https://dev.to/satish/visual-studio-2022-will-write-code-for-you-visual-studio-2022-series-part-1-4dl2)
-- [Using NLog in a .NET 5 Console Application with Dependency Injection and send logs to AWS CloudWatch](https://dev.to/satish/using-nlog-in-a-net-5-console-application-with-dependency-injection-52mm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
