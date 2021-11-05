@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [🆕 SQL Server 2022 First Look - Top 5 New Features (Bonus 5 Features)](https://dev.to/satish/sql-server-2022-first-look-top-5-new-features-bonus-5-features-2ad3)
 - [How to Install Windows 11 on unsupported Devices - Officially - No Crack - No 3rd Party Tool](https://dev.to/satish/how-to-install-windows-11-on-unsupported-devices-officially-no-crack-no-3rd-party-tool-10bn)
 - [Defense In-Depth: Designing an HTTP Content Length Restriction Middleware - ASP.NET 5 (or .NET Core)](https://dev.to/satish/defense-in-depth-designing-an-http-content-length-restriction-middleware-asp-net-5-or-net-core-1cpp)
 - [How to setup and use DynamoDb Locally - Free](https://dev.to/satish/how-to-setup-and-use-dynamodb-locally-free-4mo9)
-- [.NET 6 LINQ New Features](https://dev.to/satish/net-6-linq-new-features-opb)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
